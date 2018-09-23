@@ -13,7 +13,7 @@ function send($phone){
 }
 echo "
 ############################################################
-    Spammer Call From JD.ID
+    Spammer Call From TOKOPEDIA
     Mod By      : Gebang Kiidiw
     Contact Me  : gebangkiidiw@gmail.com
     Blog        : www.gebangkiidiw.com
