@@ -1,7 +1,7 @@
 <?php
 echo "
 ############################################################
-    Spammer Call From BUKALAPAK
+    Spammer Call From TOKOPEDIA
     Mod By      : Gebang Kiidiw
     Contact Me  : gebangkiidiw@gmail.com
     Blog        : www.gebangkiidiw.com
