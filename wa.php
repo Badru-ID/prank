@@ -1,5 +1,15 @@
 <?php
-echo "COPYRIGHT : SGB TEAM\n\n";
+echo "
+############################################################
+    Spammer Call From BUKALAPAK
+    Mod By      : Gebang Kiidiw
+    Contact Me  : gebangkiidiw@gmail.com
+    Blog        : www.gebangkiidiw.com
+    Youtube     : Gebang Kiidiw
+    Instagram   : @Bang_Joss24
+    Thanks to   : SGB-TEAM
+    Penggunaan  : Awali Dengan Angka [62]
+############################################################\n";
 echo "Nomor Target?\nInput : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
